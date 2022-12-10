@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.2.0",
